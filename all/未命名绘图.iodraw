@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OakPRc4fkViUR8gqzZCv">
-    <mxGraphModel dx="-19" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-602" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lSej6aFlVwiE0w_IOnzK-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="870" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="870" y="440" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lSej6aFlVwiE0w_IOnzK-2" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=3;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="990" y="230" width="120" height="80" as="geometry" />
