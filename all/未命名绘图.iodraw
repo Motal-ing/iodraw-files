@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSej6aFlVwiE0w_IOnzK-78" value="ppppppp&lt;hr style=&quot;padding-top: 5px; padding-right: 8px;&quot;&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=3;dashed=1;" edge="1" parent="1">
+        <mxCell id="lSej6aFlVwiE0w_IOnzK-78" value="&lt;hr&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;strokeWidth=3;dashed=1;" edge="1" parent="1">
           <mxGeometry x="0.0286" y="-10" width="80" relative="1" as="geometry">
             <mxPoint x="1360" y="710" as="sourcePoint" />
             <mxPoint x="1640" y="630" as="targetPoint" />
