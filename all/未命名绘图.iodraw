@@ -26,7 +26,7 @@
           <mxGeometry x="1040" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lSej6aFlVwiE0w_IOnzK-7" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=3;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="1030" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lSej6aFlVwiE0w_IOnzK-8" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;strokeWidth=3;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1000" width="120" height="80" as="geometry" />
