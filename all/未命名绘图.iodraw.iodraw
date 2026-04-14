@@ -15,6 +15,9 @@
             <mxPoint x="336" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="90_qCOw_KfmQNNs-C5rj-3" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
