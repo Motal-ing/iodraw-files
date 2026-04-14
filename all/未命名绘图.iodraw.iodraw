@@ -31,10 +31,10 @@
           <mxGeometry x="370" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="90_qCOw_KfmQNNs-C5rj-4" value="点赞信息" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="270" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="90_qCOw_KfmQNNs-C5rj-5" value="评论信息" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="360" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="90_qCOw_KfmQNNs-C5rj-6" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="420" width="96" height="50" as="geometry" />
