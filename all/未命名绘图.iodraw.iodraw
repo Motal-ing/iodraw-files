@@ -41,7 +41,7 @@
         <mxCell id="90_qCOw_KfmQNNs-C5rj-5" value="手机号" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="398" y="330" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lG0Mewu2_5F1okBup3wN-0" value="更新者" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="lG0Mewu2_5F1okBup3wN-0" value="&lt;span style=&quot;font-family: Calibri; letter-spacing: 0pt; font-size: 11pt;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;用户昵称&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lG0Mewu2_5F1okBup3wN-1" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
