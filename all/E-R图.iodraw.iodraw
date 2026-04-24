@@ -233,8 +233,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XIEHpeQuAlC0MrGaHusk-1" value="专业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="XIEHpeQuAlC0MrGaHusk-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="410" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
