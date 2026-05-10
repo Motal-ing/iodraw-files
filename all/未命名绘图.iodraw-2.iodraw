@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="NcNQJiV5y-ebA0rzfiIT-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-6" y="453" width="82" height="124" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NcNQJiV5y-ebA0rzfiIT-1" target="NcNQJiV5y-ebA0rzfiIT-10">
