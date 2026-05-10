@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="453" width="82" height="124" as="geometry" />
+          <mxGeometry x="-10" y="340" width="82" height="124" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NcNQJiV5y-ebA0rzfiIT-1" target="NcNQJiV5y-ebA0rzfiIT-10">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-24" value="个人作品操作" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="269" y="354" width="122" height="44" as="geometry" />
+          <mxGeometry x="269" y="380" width="122" height="44" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-25" value="编辑作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="349" width="106" height="25" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-33" value="作品审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="491" width="122" height="44" as="geometry" />
+          <mxGeometry x="265.5" y="537" width="122" height="44" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-34" value="驳回作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="522" width="106" height="25" as="geometry" />
