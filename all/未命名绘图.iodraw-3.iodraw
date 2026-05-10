@@ -182,7 +182,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1eSWS8AXSAY3__dlSKq-49" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="e1eSWS8AXSAY3__dlSKq-49" value="查看作品驳回理由" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="396" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="e1eSWS8AXSAY3__dlSKq-50" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" target="e1eSWS8AXSAY3__dlSKq-49" source="e1eSWS8AXSAY3__dlSKq-22">
@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1eSWS8AXSAY3__dlSKq-51" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="e1eSWS8AXSAY3__dlSKq-51" value="查看作品审核状态" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="603.31" y="362" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="e1eSWS8AXSAY3__dlSKq-52" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" target="e1eSWS8AXSAY3__dlSKq-51" source="e1eSWS8AXSAY3__dlSKq-22">
