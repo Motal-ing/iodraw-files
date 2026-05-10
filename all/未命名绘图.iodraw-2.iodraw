@@ -77,7 +77,7 @@
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-15" value="学生作品审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="271" y="226" width="122" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-16" value="编辑角色" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="NcNQJiV5y-ebA0rzfiIT-16" value="审核通过作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="225" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="NcNQJiV5y-ebA0rzfiIT-15" target="NcNQJiV5y-ebA0rzfiIT-16">
@@ -87,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-18" value="删除角色" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="NcNQJiV5y-ebA0rzfiIT-18" value="驳回作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="256" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="NcNQJiV5y-ebA0rzfiIT-15" target="NcNQJiV5y-ebA0rzfiIT-18">
@@ -97,7 +97,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-20" value="分配权限" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="NcNQJiV5y-ebA0rzfiIT-20" value="查看审核历史" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="285" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" source="NcNQJiV5y-ebA0rzfiIT-15" target="NcNQJiV5y-ebA0rzfiIT-20">
