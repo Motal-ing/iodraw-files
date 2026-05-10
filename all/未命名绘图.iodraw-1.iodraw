@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-21" value="新增用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="589" y="-76" width="100" height="50" as="geometry" />
+          <mxGeometry x="589" y="-51" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="i0v8MYB86VRB-QjCL706-2" target="i0v8MYB86VRB-QjCL706-21">
           <mxGeometry x="0.2836" y="-1" width="160" relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-29" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="589" y="-20" width="100" height="50" as="geometry" />
+          <mxGeometry x="589" y="2" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" target="i0v8MYB86VRB-QjCL706-29" source="i0v8MYB86VRB-QjCL706-2">
           <mxGeometry x="0.2894" y="-3" width="160" relative="1" as="geometry">
