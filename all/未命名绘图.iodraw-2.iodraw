@@ -221,16 +221,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-70" value="登录" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1080.31" y="340" width="106" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="NcNQJiV5y-ebA0rzfiIT-71" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" edge="1" parent="1" target="NcNQJiV5y-ebA0rzfiIT-70">
-          <mxGeometry x="0.2836" y="-1" width="160" relative="1" as="geometry">
-            <mxPoint x="870" y="374" as="sourcePoint" />
-            <mxPoint x="976.31" y="242.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NcNQJiV5y-ebA0rzfiIT-75" value="查看个人作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="440" width="106" height="25" as="geometry" />
         </mxCell>
