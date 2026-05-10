@@ -349,10 +349,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i0v8MYB86VRB-QjCL706-127" value="启用/停止用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="i0v8MYB86VRB-QjCL706-127" value="恢复下架" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="517" y="683" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="i0v8MYB86VRB-QjCL706-128" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" target="i0v8MYB86VRB-QjCL706-127">
+        <mxCell id="i0v8MYB86VRB-QjCL706-128" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" target="i0v8MYB86VRB-QjCL706-127" source="i0v8MYB86VRB-QjCL706-84">
           <mxGeometry x="0.2836" y="-1" width="160" relative="1" as="geometry">
             <mxPoint x="517" y="606" as="sourcePoint" />
             <mxPoint x="667" y="780" as="targetPoint" />
