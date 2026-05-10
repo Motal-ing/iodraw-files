@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-9" value="基础" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="269" y="103" width="122" height="55" as="geometry" />
+          <mxGeometry x="269" y="29" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="i0v8MYB86VRB-QjCL706-9" source="i0v8MYB86VRB-QjCL706-1">
           <mxGeometry relative="1" as="geometry">
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-48" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="201" width="122" height="55" as="geometry" />
+          <mxGeometry x="271" y="127" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-53" value="启用/停止用户" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="99" width="106" height="25" as="geometry" />
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-57" value="角色权限管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="343" width="122" height="55" as="geometry" />
+          <mxGeometry x="271" y="269" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-58" value="编辑角色" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="225" width="106" height="25" as="geometry" />
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-75" value="专业管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="465" width="122" height="55" as="geometry" />
+          <mxGeometry x="271" y="391" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-76" value="修改专业信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="349" width="106" height="25" as="geometry" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-84" value="作品审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="626" width="122" height="55" as="geometry" />
+          <mxGeometry x="271" y="552" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-85" value="驳回作品" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="472" width="106" height="25" as="geometry" />
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-93" value="分类管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="269" y="772" width="122" height="55" as="geometry" />
+          <mxGeometry x="269" y="698" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-94" value="修改分类" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="632" width="106" height="25" as="geometry" />
@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-102" value="系统管理/统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="271" y="891" width="122" height="55" as="geometry" />
+          <mxGeometry x="271" y="817" width="122" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0v8MYB86VRB-QjCL706-103" value="作品数量统计" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="601.31" y="755" width="106" height="25" as="geometry" />
