@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Okx_0S2UCGYeMV2Kjxxd-2" value="分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="Okx_0S2UCGYeMV2Kjxxd-2" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="960" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-4" value="分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
@@ -14,7 +14,7 @@
           <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-7" value="专业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="Okx_0S2UCGYeMV2Kjxxd-8" target="XIEHpeQuAlC0MrGaHusk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-8" value="点赞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="affofWzK9RPocwDcGbtG-10" target="Okx_0S2UCGYeMV2Kjxxd-21" edge="1">
           <mxGeometry relative="1" as="geometry">
