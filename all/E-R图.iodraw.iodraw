@@ -199,7 +199,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="affofWzK9RPocwDcGbtG-10" value="老师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="affofWzK9RPocwDcGbtG-10" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="affofWzK9RPocwDcGbtG-23" value="审核" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
