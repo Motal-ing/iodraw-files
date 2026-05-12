@@ -243,7 +243,7 @@
           <mxGeometry x="1020" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W1HJVWYPrXFthAZmhtlo-4" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="827" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W1HJVWYPrXFthAZmhtlo-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="80" height="60" as="geometry" />
@@ -278,7 +278,7 @@
         <mxCell id="W1HJVWYPrXFthAZmhtlo-13" value="审核" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="650" y="510" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W1HJVWYPrXFthAZmhtlo-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fontSize=22;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="W1HJVWYPrXFthAZmhtlo-13" source="W1HJVWYPrXFthAZmhtlo-4">
+        <mxCell id="W1HJVWYPrXFthAZmhtlo-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fontSize=22;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="W1HJVWYPrXFthAZmhtlo-13" source="W1HJVWYPrXFthAZmhtlo-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="907" y="410" as="targetPoint" />
             <mxPoint x="870" y="470" as="sourcePoint" />
