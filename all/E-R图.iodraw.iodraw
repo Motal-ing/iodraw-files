@@ -242,6 +242,9 @@
         <mxCell id="W1HJVWYPrXFthAZmhtlo-3" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1080" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W1HJVWYPrXFthAZmhtlo-4" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="970" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
