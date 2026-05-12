@@ -369,7 +369,7 @@
             <mxPoint x="32.5" y="2520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Rdr9xj7JdpXo1SkQ4Kr-2" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2Rdr9xj7JdpXo1SkQ4Kr-2" value="作品总获赞数" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="242.5" y="2565" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Rdr9xj7JdpXo1SkQ4Kr-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2Rdr9xj7JdpXo1SkQ4Kr-4" source="NYpzzNCb2GL0ok-EV4Ha-5">
