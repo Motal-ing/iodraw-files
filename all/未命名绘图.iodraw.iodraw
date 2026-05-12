@@ -306,10 +306,10 @@
           <mxGeometry x="325" y="2480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NYpzzNCb2GL0ok-EV4Ha-11" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="194" y="2560" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="2530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NYpzzNCb2GL0ok-EV4Ha-12" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="2590" width="100" height="40" as="geometry" />
+          <mxGeometry x="250" y="2570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NYpzzNCb2GL0ok-EV4Ha-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NYpzzNCb2GL0ok-EV4Ha-5" target="NYpzzNCb2GL0ok-EV4Ha-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -363,6 +363,14 @@
         </mxCell>
         <mxCell id="4yLOe_vIqTt_pD70ENzd-12" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="2870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rdr9xj7JdpXo1SkQ4Kr-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2Rdr9xj7JdpXo1SkQ4Kr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="2530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Rdr9xj7JdpXo1SkQ4Kr-2" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="2580" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
