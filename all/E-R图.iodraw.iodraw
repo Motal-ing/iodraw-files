@@ -14,7 +14,7 @@
           <mxGeometry x="700" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-7" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;fontSize=22;" parent="1" source="Okx_0S2UCGYeMV2Kjxxd-8" target="Okx_0S2UCGYeMV2Kjxxd-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
