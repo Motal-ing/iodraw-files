@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="affofWzK9RPocwDcGbtG-10" value="老师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
