@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;fontSize=14;" parent="1" source="XIEHpeQuAlC0MrGaHusk-2" target="XIEHpeQuAlC0MrGaHusk-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -220,6 +220,11 @@
         <mxCell id="affofWzK9RPocwDcGbtG-5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=35;" vertex="1" connectable="0" parent="affofWzK9RPocwDcGbtG-4">
           <mxGeometry x="-0.0883" y="3" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="affofWzK9RPocwDcGbtG-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="affofWzK9RPocwDcGbtG-4">
+          <mxGeometry x="-0.1052" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
