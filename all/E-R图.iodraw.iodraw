@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="90" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;fontSize=14;" parent="1" source="XIEHpeQuAlC0MrGaHusk-2" target="XIEHpeQuAlC0MrGaHusk-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-2" value="包含" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="80" y="610" width="80" height="60" as="geometry" />
+          <mxGeometry x="240" y="450" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="affofWzK9RPocwDcGbtG-1" value="点赞" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="80" height="60" as="geometry" />
