@@ -205,8 +205,8 @@
         <mxCell id="XIEHpeQuAlC0MrGaHusk-2" value="包含" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="670" y="290" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="affofWzK9RPocwDcGbtG-1" value="发布" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="600" y="540" width="80" height="60" as="geometry" />
+        <mxCell id="affofWzK9RPocwDcGbtG-1" value="点赞" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
