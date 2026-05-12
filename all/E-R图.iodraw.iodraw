@@ -16,10 +16,8 @@
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-7" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIEHpeQuAlC0MrGaHusk-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" target="XIEHpeQuAlC0MrGaHusk-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="250" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="XIEHpeQuAlC0MrGaHusk-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="Okx_0S2UCGYeMV2Kjxxd-8" target="XIEHpeQuAlC0MrGaHusk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIEHpeQuAlC0MrGaHusk-6" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=35;" parent="XIEHpeQuAlC0MrGaHusk-3" vertex="1" connectable="0">
           <mxGeometry x="0.0246" y="8" relative="1" as="geometry">
@@ -35,6 +33,9 @@
           <mxGeometry x="0.1153" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Okx_0S2UCGYeMV2Kjxxd-8" value="点赞" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-12" value="包含" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="534" y="480" width="80" height="60" as="geometry" />
