@@ -11,7 +11,7 @@
           <mxGeometry x="1030" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-5" value="作品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="690" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-7" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="970" y="410" width="120" height="60" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-11" value="发表" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="740" y="410" width="80" height="60" as="geometry" />
+          <mxGeometry x="747" y="510" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-12" value="包含" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="880" y="560" width="80" height="60" as="geometry" />
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-21" value="发布" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="590" y="530" width="80" height="60" as="geometry" />
+          <mxGeometry x="560" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okx_0S2UCGYeMV2Kjxxd-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="Okx_0S2UCGYeMV2Kjxxd-21" target="Okx_0S2UCGYeMV2Kjxxd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="affofWzK9RPocwDcGbtG-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
