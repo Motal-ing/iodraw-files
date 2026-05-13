@@ -509,7 +509,7 @@
             <mxPoint x="-100" y="1130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FcXc981zYburCNpiKFa5-48" value="文件ID" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FcXc981zYburCNpiKFa5-48" value="原始文件名" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillStyle=hatch;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=17;fontColor=default;fillColor=default;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="960" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FcXc981zYburCNpiKFa5-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=17;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FcXc981zYburCNpiKFa5-36" target="FcXc981zYburCNpiKFa5-48">
