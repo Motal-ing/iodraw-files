@@ -336,9 +336,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JAw7sTR24ekMmOOm0U8r-1" value="发布" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=22;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="450" y="500" width="80" height="60" as="geometry" />
+          <mxGeometry x="500" y="500" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JAw7sTR24ekMmOOm0U8r-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=1;fontSize=22;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;" edge="1" parent="1" target="JAw7sTR24ekMmOOm0U8r-1">
+        <mxCell id="JAw7sTR24ekMmOOm0U8r-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=1;fontSize=22;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=none;" edge="1" parent="1" target="JAw7sTR24ekMmOOm0U8r-1" source="Okx_0S2UCGYeMV2Kjxxd-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="977" y="555" as="targetPoint" />
             <mxPoint x="610" y="635" as="sourcePoint" />
